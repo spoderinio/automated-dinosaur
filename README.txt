@@ -1,0 +1,1 @@
+Script that automates the google dinosaur game.
